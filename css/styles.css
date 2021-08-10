@@ -1,0 +1,62 @@
+
+/*标签*/
+body{
+  background-color:  #E0EAFC;
+  margin:0px
+}
+/*类*/
+.mountain{
+  width: 100%;
+  margin:0px;
+}
+.c1{
+  margin:0px;
+
+}
+.c2{
+  margin-left: 1500px;
+}
+.text1{
+  margin: 0px;
+  text-align:center;
+  color:#203A43; font-size: 60px;
+}
+.text2{
+  margin: 0px;
+  text-align:center;
+  color:#203A43; font-size: 30px;
+}
+.top {
+  background-color: #E0EAFC;
+  height: 500px;
+  width:100%;
+  margin: 0px;
+}
+  .hr1{
+    background-color: #E0EAFC;
+  color: #6b6b83;
+  border-style: dotted none none;
+  border-width: 7px;
+  width:6%;
+}
+.hr2{
+  background-color: #bee2f2;
+color: #6b6b83;
+border-style: dotted none none;
+border-width: 7px;
+width:6%;
+
+}
+.mid{
+  background-color: #bee2f2;
+  height: 500px;
+  width:100%;
+  margin:0px;
+}
+.bottom{
+  background-color: #91EAE4;
+  height: 620px;
+  width:100%;
+  margin: 0px;
+}
+/*id*/
