@@ -22,6 +22,7 @@ a:hover{
 /*类*/
 .topbox{
 height: 140px;
+  width:1920px;
 background-color:#ACB6E5;
 text-align: left;
 display: block;
@@ -38,6 +39,7 @@ width: 1920px;
 }
 .bottombox{
   height: 150px;
+  width:1920px;
   background-color:#283c86 ;
   text-align: center;
 font-size: 1.5rem;
